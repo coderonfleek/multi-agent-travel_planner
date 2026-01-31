@@ -1,0 +1,14 @@
+# Smart Travel Planner - Dependencies
+# Multi-agent system using LangChain's SubAgents pattern
+
+# Core LangChain packages
+langchain>=0.3.0
+langgraph>=0.2.0
+
+# LLM Providers (uncomment the one you want to use)
+langchain-openai>=0.2.0
+# langchain-anthropic>=0.2.0
+# langchain-google-genai>=2.0.0
+
+# Utilities
+python-dotenv>=1.0.0
